@@ -3,11 +3,14 @@
 
 Proposito!!
      
-     Basicamente se trata de un pequeño proyecto que tiene como objetivo, implementar la tecnologia de un algoritmo virtual para desarrollar un chat bot que permite        llevar a cabo interacciones de respuesta usuario-maquina.
+     Basicamente se trata de un pequeño proyecto que tiene como objetivo, implementar la tecnologia de un algoritmo 
+     virtual para desarrollar un chat bot que permite llevar a cabo interacciones de respuesta usuario-maquina.
      
 Utilidad!!
      
-     Esta herramienta tiene la funcionalidad de emitir respuestas acorde a las necesidades o solicitudes del usuario, la intencion en el mundo de la ventas es que se        puedan seleccinar o filtrar a los clientes potenciales en dos segmentos distintos. 
+     Esta herramienta tiene la funcionalidad de emitir respuestas acorde a las necesidades o solicitudes del usuario, 
+     la intencion en el mundo de la ventas es que se puedan seleccinar o filtrar a los clientes potenciales en dos 
+     segmentos distintos. 
      
 Instalación!!
 
@@ -19,7 +22,8 @@ Instalación!!
      
 Soporte!!
  
-     Si necesitas ayuda para iniciar el proyecto, o tienes alguna duda, puedes escribirme a la siguiente direccion de corre electrónico supportmrtz@outlook.com
+     Si necesitas ayuda para iniciar el proyecto, o tienes alguna duda, puedes escribirme a la siguiente 
+     direccion de corre electrónico supportmrtz@outlook.com
      
 FAQs!!
 
